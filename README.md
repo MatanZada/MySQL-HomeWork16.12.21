@@ -1,4 +1,4 @@
-# Add to our "amazing-store" DB the current fields:
+# Add to our "the_amazing_shop" DB the current fields:
 - Orders[
     is_canceled:bool
 ]
